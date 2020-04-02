@@ -1,0 +1,11 @@
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 11\EstudoExcecao_2\EstudoExcecao_2\bin\Debug\netcoreapp3.1\EstudoExcecao_2.exe
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 11\EstudoExcecao_2\EstudoExcecao_2\bin\Debug\netcoreapp3.1\EstudoExcecao_2.deps.json
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 11\EstudoExcecao_2\EstudoExcecao_2\bin\Debug\netcoreapp3.1\EstudoExcecao_2.runtimeconfig.json
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 11\EstudoExcecao_2\EstudoExcecao_2\bin\Debug\netcoreapp3.1\EstudoExcecao_2.runtimeconfig.dev.json
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 11\EstudoExcecao_2\EstudoExcecao_2\bin\Debug\netcoreapp3.1\EstudoExcecao_2.dll
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 11\EstudoExcecao_2\EstudoExcecao_2\bin\Debug\netcoreapp3.1\EstudoExcecao_2.pdb
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 11\EstudoExcecao_2\EstudoExcecao_2\obj\Debug\netcoreapp3.1\EstudoExcecao_2.csprojAssemblyReference.cache
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 11\EstudoExcecao_2\EstudoExcecao_2\obj\Debug\netcoreapp3.1\EstudoExcecao_2.AssemblyInfoInputs.cache
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 11\EstudoExcecao_2\EstudoExcecao_2\obj\Debug\netcoreapp3.1\EstudoExcecao_2.AssemblyInfo.cs
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 11\EstudoExcecao_2\EstudoExcecao_2\obj\Debug\netcoreapp3.1\EstudoExcecao_2.dll
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 11\EstudoExcecao_2\EstudoExcecao_2\obj\Debug\netcoreapp3.1\EstudoExcecao_2.pdb
